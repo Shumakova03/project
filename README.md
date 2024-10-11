@@ -4,4 +4,4 @@ This is awesome project.
 ## Author
 [Author](author.md)
 ## Conflict
-## Some new section her
+## Some new section here
